@@ -29,4 +29,4 @@ To get this project running on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/prachi-0208/calendar-app.git](https://github.com/prachi-0208/calendar-app.git)
+  git clone https://github.com/prachi-0208/calendar-app.git
